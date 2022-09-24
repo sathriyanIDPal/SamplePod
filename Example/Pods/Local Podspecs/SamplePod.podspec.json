@@ -1,0 +1,22 @@
+{
+  "name": "SamplePod",
+  "version": "0.1.0",
+  "summary": "A short description of SamplePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sathriyanIDPal/SamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sathriyanIDPal": "sathriyan.aitech@id-pal.com"
+  },
+  "source": {
+    "git": "https://github.com/sathriyanIDPal/SamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SamplePod/Classes/**/*"
+}
